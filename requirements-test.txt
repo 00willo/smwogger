@@ -6,3 +6,4 @@ bottle
 pytest-cov
 pytest
 coverage
+safety
